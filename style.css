@@ -18,6 +18,15 @@ h1 {
     text-align: center;
 }
 
+select {
+    width: 145px;
+    height: 21px;
+}
+
+label[for="bun"] {
+    display: block;
+}
+
 #overlay {
     width: 80%;
     margin: 3% auto;
@@ -31,7 +40,6 @@ h1 {
     display: block;
     margin: auto;
 }
-
 
 .toppings label,
 .cheesy label {
